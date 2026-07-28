@@ -1,3 +1,7 @@
 User-agent: *
 Disallow: /comisiones
 Disallow: /comisiones.html
+Disallow: /avance
+Disallow: /avance.html
+Disallow: /paquetes
+Disallow: /paquetes.html
