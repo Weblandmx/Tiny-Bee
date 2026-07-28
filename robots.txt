@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /comisiones
+Disallow: /comisiones.html
